@@ -1,0 +1,7 @@
+pyproject.toml
+setup.py
+src/getmp3.egg-info/PKG-INFO
+src/getmp3.egg-info/SOURCES.txt
+src/getmp3.egg-info/dependency_links.txt
+src/getmp3.egg-info/requires.txt
+src/getmp3.egg-info/top_level.txt
